@@ -1,3 +1,5 @@
+# This oroject includes work with React, modules, components and many other things to train Reacts and JS overall
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
